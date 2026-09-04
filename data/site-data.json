@@ -1,6 +1,6 @@
 {
   "settings": {
-    "pharmacyName": "صيدلية دكتورة نسرين",
+    "pharmacyName": "انا الفيشخ الي هيخلك  تروح المريخ",
     "whatsapp": "https://wa.me/213000000000",
     "phone": "+213000000000",
     "facebook": "https://facebook.com/pharmacie.dr.nesrin",
@@ -10,17 +10,7 @@
     "ratingUrl": "#testimonials",
     "ratingLabel": "تقييم"
   },
-  "products": [
-    {
-      "id": "p_1788487370363_s2mlm",
-      "categorySlug": "chronic-diseases",
-      "name": "منتج جديagfdد",
-      "image": "",
-      "shortDescription": "ag",
-      "detailDescription": "afgd",
-      "status": "available"
-    }
-  ],
+  "products": [],
   "reviews": [
     {
       "id": "r1",
