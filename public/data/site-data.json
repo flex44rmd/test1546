@@ -1,6 +1,6 @@
 {
   "settings": {
-    "pharmacyName": "سكس",
+    "pharmacyName": "احا دع",
     "whatsapp": "https://wa.me/213000000000",
     "phone": "+213000000000",
     "facebook": "https://facebook.com/pharmacie.dr.nesrin",
@@ -10,17 +10,7 @@
     "ratingUrl": "#testimonials",
     "ratingLabel": "تقييم"
   },
-  "products": [
-    {
-      "id": "p_1788488270312_l96mk",
-      "categorySlug": "chronic-diseases",
-      "name": "منتج جديد",
-      "image": "",
-      "shortDescription": "",
-      "detailDescription": "",
-      "status": "available"
-    }
-  ],
+  "products": [],
   "reviews": [
     {
       "id": "r1",
